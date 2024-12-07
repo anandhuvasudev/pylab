@@ -1,0 +1,1 @@
+rsync -avz 24mca15@192.168.20.200:/home/2024/24mca15 ~/Downloads/
